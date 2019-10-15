@@ -1,0 +1,33 @@
+
+.article {
+  display: flex;
+  margin: 50px;
+  border-bottom: 1px solid grey;
+}
+
+.article-date {
+  flex: 0 0 15%;
+  color: grey
+  
+
+}
+
+.article-content {
+  flex: 0 0 60%;
+}
+
+.title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+
+}
+
+.content2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: grey;
+
+}
+
+.article-image {
+  flex: 0 0 25%;
+}
